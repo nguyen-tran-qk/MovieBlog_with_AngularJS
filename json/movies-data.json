@@ -1,0 +1,226 @@
+[
+    {
+        "name": "The Martian",
+        "category": {
+            "name": "Fiction"
+        },
+        "price": 20,
+        "length": "2 hr. 14 min",
+        "description": "During a manned mission to Mars, Astronaut Mark Watney (Matt Damon) is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive. Millions of miles away, NASA and a team of international scientists work tirelessly to bring 'the Martian' home, while his crewmates concurrently plot a daring, if not impossible rescue mission. As these stories of incredible bravery unfold, the world comes together to root for Watney return.",
+        "canPurchase": true,
+        "soldOut": false,
+        "images": [
+            "images/martian-01-full.jpg"
+        ],
+        "reviews": [
+            {
+                "stars": 5,
+                "body": "America spent too much money retriving Matt Damon!! LOL",
+                "author": "9gag@gmail.com"
+            },
+            {
+                "stars": 3,
+                "body": "Too much fiction!",
+                "author": "nguyentqk@fpt.edu.vn"
+            }
+        ]
+    },
+    {
+        "name": "Bridge of spies",
+        "category": {
+            "name": "Drama"
+        },
+        "price": 23,
+        "length": "2 hr. 15 min.",
+        "description": "Tom Hanks stars as the American attorney tasked with negotiating the release of a U-2 spy plane pilot who was shot down over Russia at the height of the Cold War in this historical drama from DreamWorks Studios. Steven Spielberg and Mark E. Platt produce a film written by Matt Charman. ~ Jason Buchanan, Rovi",
+        "canPurchase": true,
+        "soldOut": false,
+        "images": [
+            "images/spies-01-full.jpg"
+        ],
+        "reviews": [
+            {
+                "stars": 4,
+                "body": "Tom Hanks is coooool",
+                "author": "sonnvh40@fpt.edu.vn"
+            }
+        ]
+    },
+    {
+        "name": "Goosebumps",
+        "category": {
+            "name": "Fiction"
+        },
+        "price": 18,
+        "length": "1 hr. 43 min.",
+        "description": "Upset about moving from a big city to a small town, teenager Zach Cooper (Dylan Minnette) finds a silver lining when he meets the beautiful girl, Hannah (Odeya Rush), living right next door. But every silver lining has a cloud, and Zach comes when he learns that Hannah has a mysterious dad who is revealed to be R. L. Stine (Jack Black), the author of the bestselling Goosebumps series. It turns out that there is a reason why Stine is so strange... he is a prisoner of his own imagination - the monsters that his books made famous are real, and Stine protects his readers by keeping them locked up in their books. When Zach unintentionally unleashes the monsters from their manuscripts and they begin to terrorize the town, it suddenly up to Stine, Zach, and Hannah to get all of them back in the books where they belong.",
+        "canPurchase": true,
+        "soldOut": false,
+        "images": [
+            "images/goosebumps-01-full.jpg"
+        ],
+        "reviews": []
+    },
+    {
+        "name": "Crimson Peak",
+        "category": {
+            "name": "Horror"
+        },
+        "price": 16,
+        "length": "1 hr. 59 min.",
+        "description": "When her heart is stolen by a seductive stranger, a young woman is swept away to a house atop a mountain of blood-red clay: a place ﬁlled with secrets that will haunt her forever. Between desire and darkness, between mystery and madness, lies the truth behind Crimson Peak.",
+        "canPurchase": true,
+        "soldOut": false,
+        "images": [
+            "images/Crimson-01-full.jpg"
+        ],
+        "reviews": []
+    },
+    {
+        "name": "HOTEL TRANSYLVANIA 2",
+        "category": {
+            "name": "Comedy"
+        },
+        "price": 15,
+        "length": "1 hr. 29 min.",
+        "description": "The hit CG-animated family comedy Hotel Transylvania gets a follow-up with this Sony Pictures Animation production.",
+        "canPurchase": true,
+        "soldOut": false,
+        "images": [
+            "images/Hotel-01-full.jpg"
+        ],
+        "reviews": [
+            {
+                "stars": 4,
+                "body": "Funny AF",
+                "author": "sonnvh40@fpt.edu.vn"
+            }
+        ]
+    },
+    {
+        "name": "Pan",
+        "category": {
+            "name": "Action"
+        },
+        "price": 15,
+        "length": "1 hr. 51 min.",
+        "description": "The story of an orphan who is spirited away to the magical Neverland. There, he finds both fun and dangers, and ultimately discovers his destiny to become the hero who will be forever known as Peter Pan.",
+        "canPurchase": true,
+        "soldOut": false,
+        "images": [
+            "images/pan-01-full.jpg"
+        ],
+        "reviews": [
+            {
+                "stars": 4,
+                "body": "Borriinnngggg",
+                "author": "sonnvh50@fpt.edu.vn"
+            }
+        ]
+    },
+    {
+        "name": "THE INTERN (2015)",
+        "category": {
+            "name": "Comedy"
+        },
+        "price": 18.5,
+        "length": "2 hr. 1 min",
+        "description": "A retired successful business owner and widower lands an internship at a fashion website run by a young, career-driven woman. ~ Jason Buchanan, Rovi",
+        "canPurchase": true,
+        "soldOut": false,
+        "images": [
+            "images/intern-01-full.jpg"
+        ],
+        "reviews": [
+            {
+                "stars": 5,
+                "body": "Anna iss sooo hot",
+                "author": "nguyetqk@fpt.edu.vn"
+            }
+        ]
+    },
+    {
+        "name": "SICARIO (2015)",
+        "category": {
+            "name": "Action"
+        },
+        "price": 14.5,
+        "length": "2 hr.",
+        "description": "In the lawless border area stretching between the U.S. and Mexico, an idealistic FBI agent [Emily Blunt] is enlisted by an elite government task force official [Josh Brolin] to aid in the escalating war against drugs. Led by an enigmatic consultant with a questionable past [Benicio Del Toro], the team sets out on a clandestine journey forcing Kate to question everything that she believes in order to survive. (C) Lionsgate",
+        "canPurchase": true,
+        "soldOut": false,
+        "images": [
+            "images/sicario-01-full.jpg"
+        ],
+        "reviews": [
+            {
+                "stars": 2,
+                "body": "nice idea",
+                "author": "nguyetqk@fpt.edu.vn"
+            }
+        ]
+    },
+    {
+        "name": "WOODLAWN (2015)",
+        "category": {
+            "name": "Drama"
+        },
+        "price": 14.5,
+        "length": "2 hr 3 min.",
+        "description": "In 1973, a spiritual awakening captures the hearts of the Woodlawn High School Football team. Lead by their coach, Tandy Geralds, and fueled by the team dedication to love and unity in a school filled with racism and hate, the team makes an astounding run at the playoffs, leading to the largest high school football game ever played in the torn city of Birmingham, Alabama, and the rise of its first African American superstar - Tony Nathan",
+        "canPurchase": true,
+        "soldOut": false,
+        "images": [
+            "images/wood-01-full.jpg"
+        ],
+        "reviews": [
+            {
+                "stars": 1,
+                "body": "i dont get american football",
+                "author": "khoinm@fpt.edu.vn"
+            }
+        ]
+    },
+    {
+        "name": "MAZE RUNNER: THE SCORCH TRIALS",
+        "category": {
+            "name": "Action"
+        },
+        "price": 24.5,
+        "length": "2 hr 3 min.",
+        "description": "In this next chapter of the epic 'Maze Runner'' saga, Thomas (Dylan OBrien) and his fellow Gladers face their greatest challenge yet: searching for clues about the mysterious and powerful organization known as WCKD. Their journey takes them to the Scorch, a desolate landscape filled with unimaginable obstacles. Teaming up with resistance fighters, the Gladers take on WCKDs vastly superior forces and uncover its shocking plans for them all",
+        "canPurchase": true,
+        "soldOut": false,
+        "images": [
+            "images/maze-01-full.jpg"
+        ],
+        "reviews": [
+            {
+                "stars": 2,
+                "body": "worse than part 1",
+                "author": "khoinm@fpt.edu.vn"
+            }
+        ]
+    },
+    {
+        "name": "BLACK MASS",
+        "category": {
+            "name": "Drama"
+        },
+        "price": 24.5,
+        "length": "2 hr 2 min.",
+        "description": "In 1970s South Boston, FBI Agent John Connolly (Joel Edgerton) persuades Irish mobster James 'Whitey' Bulger (Johnny Depp) to collaborate with the FBI and eliminate a common enemy: the Italian mob. The drama tells the story of this unholy alliance, which spiraled out of control, allowing Whitey to evade law enforcement, consolidate power, and become one of the most ruthless and powerful gangsters in Boston history",
+        "canPurchase": true,
+        "soldOut": false,
+        "images": [
+            "images/blackmass-01-full.jpg"
+        ],
+        "reviews": [
+            {
+                "stars": 3,
+                "body": "trippy",
+                "author": "khoinm@fpt.edu.vn"
+            }
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html ng-app="movieblog">
+
+<head>
+    <link rel="stylesheet" type="text/css" href="Style/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="Style/style.css" />
+    <script type="text/javascript" src="Style/angular.min.js"></script>
+    <script type="text/javascript" src="controllers/blogController.js"></script>
+    <script type="text/javascript" src="controllers/reviewController.js"></script>
+    <script src="directives/movies.js"></script>
+    <script src="services/service.js"></script>
+    <title>Movie Blog</title>
+</head>
+
+<body ng-controller="BlogController as blog">
+    <div class="container">
+        <div class="row">
+            <blog-content></blog-content>
+        </div>
+    </div>
+</body>
+
+</html>

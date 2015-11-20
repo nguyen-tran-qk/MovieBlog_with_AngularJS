@@ -1,0 +1,14 @@
+<categories-panel active-category="activeCategory"></categories-panel>
+<!--/span-->
+
+<div class="col-md-6">
+    <!--Content container-->
+    <div ng-repeat="content in blog.contents | filter: {category: {name: activeCategory.name}}" class="list-group">
+        <div ng-hide="content.soldOut" class="list-group-item">
+            <movie-title></movie-title>
+            <movie-gallery></movie-gallery>
+            <movie-length></movie-length>
+            <movie-tabs></movie-tabs>
+        </div>
+    </div>
+</div>

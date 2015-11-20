@@ -1,0 +1,28 @@
+<div class="panel" ng-show="panel.isSelected(3)">
+    <blockquote ng-repeat="review in content.reviews">
+        <b>Stars: {{review.stars}}</b> {{review.body}}
+        <cite class="clearfix">- {{review.author}}</cite>
+    </blockquote>
+    <form name="reviewForm" ng-controller="ReviewController as reviewCtrl" ng-submit="reviewForm.$valid && reviewCtrl.addReview(content)" novalidate>
+        <!--  Live Preview -->
+        <blockquote ng-show="reviewCtrl.review">
+            <strong>{{reviewCtrl.review.stars}} Stars</strong> {{reviewCtrl.review.body}}
+            <cite class="clearfix">—{{reviewCtrl.review.author}}</cite>
+        </blockquote>
+        <!--submit review-->
+        <fieldset class="form-group">
+            <select ng-model="reviewCtrl.review.stars" class="form-control" ng-options="stars for stars in [5,4,3,2,1]" title="Stars" required>
+                <option value="">Rate the movie</option>
+            </select>
+        </fieldset>
+        <fieldset class="form-group">
+            <textarea ng-model="reviewCtrl.review.body" class="form-control" placeholder="Write a short review of the product..." title="Review" required> </textarea>
+        </fieldset>
+        <fieldset class="form-group">
+            <input ng-model="reviewCtrl.review.author" type="email" class="form-control" placeholder="jimmyDean@example.org" title="Email" required />
+        </fieldset>
+        <fieldset class="form-group">
+            <input type="submit" class="btn btn-primary pull-right" value="Submit Review" />
+        </fieldset>
+    </form>
+</div>

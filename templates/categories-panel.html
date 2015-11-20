@@ -1,0 +1,15 @@
+<div class="col-md-3">
+    <div class="sidebar-nav-fixed affix">
+        <div class="well">
+            <ul class="nav">
+                <li class="nav-header">Categories</li>
+                <li><a href class="list-group-item" 
+                       ng-click="getAllCategories()" 
+                       ng-class="{active: activeCategory == null}">All</a></li>
+                <category-item ng-repeat="category in categories" category="category"></category-item>
+            </ul>
+        </div>
+        <!--/.well -->
+    </div>
+    <!--/sidebar-nav-fixed -->
+</div>
